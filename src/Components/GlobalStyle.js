@@ -14,9 +14,9 @@ const GlobalStyle = createGlobalStyle`
         font-family: 'Nanum Gothic', sans-serif;
         font-size: 1rem;
         color:#fff;
-        font-size: 3rem;
         width:100%;
         height:100vh;
+        font-size: 1.3rem;
         display:flex;
         justify-content:center;
         align-items:center;

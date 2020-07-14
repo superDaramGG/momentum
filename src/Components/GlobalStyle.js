@@ -22,6 +22,9 @@ const GlobalStyle = createGlobalStyle`
         align-items:center;
         background-image: url("https://cdn.pixabay.com/photo/2018/02/04/17/11/venice-3130323_1280.jpg");
         background-size: cover;
+        @media all and (min-width: 320px) and (max-width: 500px) {
+            font-size: 1rem;
+        }        
     }
 `;
 

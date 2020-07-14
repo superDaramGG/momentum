@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/momentum/static/js/main.a8d6b883.chunk.js",
+    "main.js.map": "/momentum/static/js/main.a8d6b883.chunk.js.map",
+    "runtime-main.js": "/momentum/static/js/runtime-main.d0c67512.js",
+    "runtime-main.js.map": "/momentum/static/js/runtime-main.d0c67512.js.map",
+    "static/js/2.76a6ba40.chunk.js": "/momentum/static/js/2.76a6ba40.chunk.js",
+    "static/js/2.76a6ba40.chunk.js.map": "/momentum/static/js/2.76a6ba40.chunk.js.map",
+    "index.html": "/momentum/index.html",
+    "precache-manifest.d20e9ba1c78a24c1b709ae0a46be9d61.js": "/momentum/precache-manifest.d20e9ba1c78a24c1b709ae0a46be9d61.js",
+    "service-worker.js": "/momentum/service-worker.js",
+    "static/js/2.76a6ba40.chunk.js.LICENSE.txt": "/momentum/static/js/2.76a6ba40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c67512.js",
+    "static/js/2.76a6ba40.chunk.js",
+    "static/js/main.a8d6b883.chunk.js"
+  ]
+}

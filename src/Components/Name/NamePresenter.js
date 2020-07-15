@@ -16,7 +16,7 @@ const Form = styled.form`
   animation: ${fadeAni} 2s linear;
   display: flex;
   flex-direction: column;
-  font-size: 5rem;
+  font-size: 1rem;
 `;
 
 const Text = styled.span`
